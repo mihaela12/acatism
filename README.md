@@ -2,4 +2,4 @@ acatism
 =======
 
 Test project
-This is a new version for the project
+This is a newest version for the project
